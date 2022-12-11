@@ -1,1 +1,1 @@
-# Case-Study-Shopify
+# Case_Study_Shopify
